@@ -1,0 +1,9 @@
+rohlík;1;ks;3
+máslo;250;g;45
+mléko;1;l;25
+čokoláda;1;ks;18
+kofola;2;l;24
+noviny;1;ks;20
+banány;1;kg;22
+pomeranče;1;kg;32
+mrkev;1;kg;30
